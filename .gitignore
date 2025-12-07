@@ -1,6 +1,5 @@
 # Kometa Config
 # Ignore sensitive data and local files
-config.yml
 *.log
 *.bak
 *~
